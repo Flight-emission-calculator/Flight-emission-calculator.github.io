@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  /* background-color: #282c34; */
+  background-color: rgba(228, 238, 222, 1.10);
+  /*background-color: rgba(210, 244, 189, 0.81);*/
+  font-size: calc(10px + 2vmin);
+  color: white;
+  /* padding: 1em; */
+
+  display: flex;
+  justify-content: space-between;
+}
+
+#title {
+  /* color: #0c0c0b; */
+  color: #282c34;
+  font-style: italic;
+  font-size: 18pt;
+}
+
+.header-btn {
+  font-size: 11pt;
+  color: #282c34;
+  margin-left: 1em;
+  margin-right: 1em;
+}

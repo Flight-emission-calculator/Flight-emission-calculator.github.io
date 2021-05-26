@@ -1,0 +1,102 @@
+h1 {
+  color: #282c34;
+  font-size: 28pt;
+  margin-top: 2em;
+}
+
+p {
+  color: #282c34;
+}
+
+.start-subheading {
+  font-size: 21pt;
+  justify-content: center;
+  display: inline-block;
+}
+
+.info-box {
+  justify-content: center;
+  border: 3px solid rgba(241, 28, 14, 0.55);
+  box-sizing: border-box;
+  font-size: 18pt;
+  margin-top: 6em;
+  padding: 0.1em 0.5em 0.1em 0.5em;
+  float: left;
+  max-width: 500px;
+}
+
+.chart {
+  max-width: fit-content;
+  margin: 0 auto;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  float: left;
+}
+
+.chart-div {
+  display: table;
+  margin: 0 auto;
+  padding-right: 2em;
+}
+
+.info-logotype {
+  max-width: 25px;
+  max-height: 25px;
+  opacity: 80%;
+}
+
+.tooltip {
+  float: right;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  max-width: fit-content;
+  background-color: white;
+  color: #fff;
+  text-align: center;
+  border: 1px solid black;
+  margin: 0.5em 0.5em 0.5em 0.5em;
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+.tooltiptext-title{
+  font-weight: bold;
+  font-size: 12pt;
+}
+
+.tooltiptext-text{
+  font-size: 11pt;
+}
+
+.next-btn {
+  padding-top: 2em;
+}
+
+.calender-wrap--first-p {
+  justify-content: center;
+  background: rgba(196, 196, 196, 0.62);
+  border: 0.1px solid #000000;
+  box-sizing: border-box;
+  display: inline-block;
+  font-size: 18pt;
+  margin-top: 1em;
+  padding: 1em 1em 1em 1em;
+}
+
+.calender-wrap--second-p {
+  justify-content: center;
+  border: 3px solid rgba(241, 28, 14, 0.55);
+  box-sizing: border-box;
+  display: inline-block;
+  font-size: 18pt;
+  margin-top: 1em;
+  padding: 1em 1em 1em 1em;
+}

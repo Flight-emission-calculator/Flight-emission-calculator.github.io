@@ -1,0 +1,31 @@
+.calender-wrap-div {
+  justify-content: center;
+  border: 3px solid rgba(241, 28, 14, 0.55);
+  box-sizing: border-box;
+  font-size: 18pt;
+  margin-top: 1em;
+  padding: 1em 1em 1em 1em;
+  float: left;
+  color: #282c34;
+  max-width: 500px;
+  height: 180px;
+}
+
+.info-box {
+  justify-content: center;
+  font-size: 18pt;
+  margin-top: 1em;
+  padding: 0.1em 0.5em 0.1em 0.5em;
+  display: inline-block;
+}
+
+.home {
+  max-width: 120px;
+  max-height: 120px;
+}
+
+.calender-wrap-div-container {
+  display: table;
+  margin: 0 auto;
+  margin-top: 2em;
+}

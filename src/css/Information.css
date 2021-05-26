@@ -1,0 +1,21 @@
+.info-categories {
+    list-style: none;
+    cursor: pointer;
+    font-size: 18pt;
+    color: #282c34;
+    font-weight: bold;
+}
+
+.info-categories-list {
+    list-style: none;
+    font-size: 14pt;
+    color: #282c34;
+    text-align: left;
+}
+
+.info-categories-list--sublist{
+    font-size: 12pt;
+    color: #282c34;
+    font-weight: normal;
+    max-width: 60%;
+}
